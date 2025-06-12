@@ -40,4 +40,5 @@ This project implements a **Market Basket Analysis (MBA)** system using the **Ap
 * Frequent itemsets for each support level (L1, L2, L3…)
 * Insights into optimal support values
 * A line chart showing how the number of itemsets changes with support thresholds
+* Market basket analysis
 
